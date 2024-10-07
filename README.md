@@ -59,6 +59,15 @@ Soy un desarrollador de software con una base sólida en múltiples lenguajes de
 
 ---
 
+
+## 🏆 Contribuciones
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zereft8&theme=radical)
+
+> **Mis contribuciones diarias en GitHub**: ¡Me esfuerzo por mantener mi racha activa y colaborar en proyectos de código abierto!
+
+---
+
 ## 🌱 Actualmente Aprendiendo
 
 - **Desarrollo móvil** con **Flutter** y **React Native**.
