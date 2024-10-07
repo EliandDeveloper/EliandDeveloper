@@ -19,7 +19,7 @@ Soy un desarrollador de software con una base sólida en múltiples lenguajes de
 
 ## 📊 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Zereft8&show_icons=true&theme=radical)](https://github.com/Zereft8/github-readme-stats)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=Zereft8&show_icons=true&theme=radical)](https://github.com/Zereft8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zereft8&layout=compact&theme=radical)](https://github.com/Zereft8/github-readme-stats)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zereft8&theme=radical)
