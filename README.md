@@ -43,9 +43,7 @@ Soy un desarrollador de software con más de 3 años de experiencia, enfocado en
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EliandDeveloper&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliandDeveloper&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EliandDeveloper&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliandDeveloper&layout=compact&theme=radical)
 
 ---
 
